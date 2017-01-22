@@ -4,12 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Hello! My name is Edwin and I am in my senior year for Computer Science at the University of Texas at Austin. This site will be holding my weekly blog posts for my CS373 Software Engineering course. If you have any questions or comments please feel free to [contact me](mailto:edwin.bejarano@gmail.com).

@@ -4,7 +4,11 @@ title:  "Week One"
 date:   2017-01-21 23:13:52 -0600
 categories: CS373 blog
 ---
+{: .center-image}
+![Author: Edwin Bejarano]({{ site.url }}/downloads/selfie.jpg)
 
+{: .center-author}
+<i> Author: Edwin Bejarano</i>
 
 <h3>What did you do this past week?</h3>
 

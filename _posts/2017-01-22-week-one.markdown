@@ -10,12 +10,22 @@ categories: CS373 blog
 {: .center-author}
 <i> Author: Edwin Bejarano</i>
 
-<h3>What did you do this past week?</h3>
+<br /><br />
+<h4><b>What did you do this past week?</b></h4>
+Back to school! This past week marks the start of the second to last semester until I graduate! Seems so close but yet so far and so much more to learn. I have a feeling this semester will be the most exciting for me thus far. I will almost finish with my INFOSEC cert and will be taking a deeper dive into the web development with SWE. This semester I am taking SWE, Network Security and Privacy, Intro to Computer Security, and Competitive Programming. 
 
-<h3>What's in your way?</h3>
+This past week I spent getting acquainted with my classes, their syllabus, and the amount of work expected for each week. 
 
-<h3>What will you do next week?</h3>
+<h4><b>What's in your way?</b></h4>
+I don't see anything that will be getting in the way because I feel like this semester will be the first semester where I will be able to dedicate a substantial amount of time into my school work (knock on wood). My knowledge of Python is rather minimal (I started working a little with it for Computer Networks) but I have enjoyed my experience with it so far and looking forward to learning more with SWE.
 
-<h3>What's my experience of the class?</h3>
+<h4><b>What will you do next week?</b></h4>
+Hit the ground running! I will be spending a good amount of time reviewing the readings for my classes and dedicating a little more time with JavaScript to get ahead a little in my Network Security and Privacy class. Another thing that I will also be working on is looking at ReactJS, I have worked with Polymer and have been told that React is somewhat similar so hopefully it wont be too difficult to get started. I want to get familiar with that technology so when the projects in SWE come up I wont feel behind.
 
-<h3>What's my pick-of-the-week or tip-of-the-week?</h3>
+<h4><b>What's my experience of the class?</b></h4>
+So far I am really liking the way the class is taught and I feel like, by looking at the syllabus and past student's thoughts, that this class will help in understanding different technologies and give us the opportunity to implement those technologies in our projects. I like how Professor Downing engages students throughout the class, though it is used for attendance, but the possibility of being called on urges you to pay attention or read ahead to be able to answer any questions thrown at you. I am definitely looking forward to the materials that will be discussed.
+
+
+<h4><b>What's my pick-of-the-week or tip-of-the-week?</b></h4>
+My tip of the week is for anyone able to look into Progressive Web Applications (PWA). Something that Google started introducing and expanding at this years Google I/O (though it has been out for a couple of years at this point). It may not be the future but it will definitely make its way into the future in its current form or in another. Just to touch on it a little, it is a means to make your web application more mobile friendly and more fluid with the use of service workers. Pretty interesting stuff!
+

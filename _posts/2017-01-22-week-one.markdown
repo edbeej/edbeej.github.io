@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Week One"
+date:   2017-01-21 23:13:52 -0600
+categories: CS373 blog
+---
+
+
+<h3>What did you do this past week?</h3>
+
+<h3>What's in your way?</h3>
+
+<h3>What will you do next week?</h3>
+
+<h3>What's my experience of the class?</h3>
+
+<h3>What's my pick-of-the-week or tip-of-the-week?</h3>

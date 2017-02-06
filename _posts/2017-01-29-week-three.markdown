@@ -12,17 +12,17 @@ categories: CS373 blog
 
 <br /><br />
 <h4><b>What did you do this past week?</b></h4>
-This past week was the first full week of school. We were introduced to our first project in SWE and I started looking into the different aspects, such as Travis CI, Python, and algorithms/data structures that may help to solving the problem. Aside from SWE I had some readings for Intro to Comp Networks and Network Security and Privacy. 
+This past week had a lot to do with our SWE project and reading into Computer Networks and Security. The collatz project had a lot of different aspects that was nice to get back into, like going back to work in a sense. Figuring out how to optimize the collatz algorithm to get it as low as possible was rather fun but I feel like I could of improved it much more.
 
 <h4><b>What's in your way?</b></h4>
-Currently getting a better understanding of Travis CI. It seems like it is a bit of a hassle at first to get everything working correctly. I believe I have figured out the collatz problem but just will need to optimize it to pass all the tests faster. Currently sitting at 6 seconds for each test but I think it can be much faster.
+Currently there isn't much in the way except for the novice level of understanding of Python. I feel like I still have a lot to learn to have a decent grasp of it but that is the joy of our careers, learning new technologies or techniques.
 
 <h4><b>What will you do next week?</b></h4>
-Finish up the SWE project and learn some more about React, Docker, and get a better understanding of Travis CI. I am also in competitive programming so I will be looking at the assignment that will be assigned to maybe get a little more practice with different data structures and time efficiency.
+Next week will be the start of the second project as well as my first project in Intro to Comp Sec. The Comp Sec project shouldn't take too long so I should be able to focus on the Netflix project in SWE. I will also be spending a small amount of time working on my presentation for Building America that will be on the topic of the Erie Canal and how it can be connected to the Brooklyn Bridge.
 
 <h4><b>What's my experience of the class?</b></h4>
-I really enjoy the class. I feel like I will be learning a lot and we are just starting. I am really glad that this class has a focus with Python because the more I use it the more interesting it seems.
+I am really liking how Professor Downing is introducing Python to the class. He is starting with the basics and reviewing the different ways that data structures can be represented, which will definitely help in improving algorithms or functionality of programs. I really enjoyed the last project and am definitely looking towards working on the next one.
 
 <h4><b>What's my pick-of-the-week or tip-of-the-week?</b></h4>
-Another student in the class introduced my to a very useful IDE, much like Eclipse but without the hassles, slowness, or complexities that Eclipse sometimes has. The company is called [JetBrains](https://www.jetbrains.com) and they have an IDE for each language. [PyCharm](https://www.jetbrains.com/pycharm/) is the python version and [IntelliJ IDEA](https://www.jetbrains.com/idea/) is the Java one. Students get the two professional versions free, try it out!
+My pick of the week is Polymer. [Polymer](https://www.polymer-project.org/1.0/) is a web framework that works with components and is compared to React a lot. It has been introduced by Google and it is rather easy to use, as long as you have bower or brew installed. It can help in creating basic websites quickly and giving your website the adaptability for mobile.
 

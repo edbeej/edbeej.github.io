@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week Two"
+title:  "Week Four"
 date:   2017-02-12 09:33:54 -0600
 categories: CS373 blog
 ---

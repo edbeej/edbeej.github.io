@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Week Two"
+date:   2017-02-12 09:33:54 -0600
+categories: CS373 blog
+---
+{: .center-image}
+![Author: Edwin Bejarano]({{ site.url }}/downloads/selfie.jpg)
+
+{: .center-author}
+<i> Author: Edwin Bejarano</i>
+
+<br /><br />
+<h4><b>What did you do this past week?</b></h4>
+This past week we started working on the Netflix project. We were able to get to the point where we are now trying to figure out the best combination and equation to get below 1.0 with all the caches we can gather from the test folder (Thanks to all who made them!). Apart from that, other classes have had their share of work but I do not feel behind in any class, knock on wood.
+
+<h4><b>What's in your way?</b></h4>
+Currently we need to find the best equation for lowering the RMSE on the project. We have been messing around with some and are really close but we will just need to revisit with a clear head and see if we can lower it the little bit left to finish the project.
+
+<h4><b>What will you do next week?</b></h4>
+Next week will be used to finish up the project and read ahead on Network Security as I have a feeling that it will pick up rather quickly. 
+
+<h4><b>What's my experience of the class?</b></h4>
+So far so good. I really am enjoying Python and the way Professor Downing is introducing the different concepts is awesome. I unfortunately missed one day of class this week due to a stomach virus or something but the other quizzes were fair. The quizzes have been great because they have been going over previously discussed materials and try to expand on that just a little by providing examples require understanding the topic discussed.
+
+
+<h4><b>What's my pick-of-the-week or tip-of-the-week?</b></h4>
+My pick of the week is a handy tool that most probably know about but just in case you don't, it is a RegEx helper. [Regexr](regexr.com) has a handy way of creating a RegEx that will either help you filter out the items you do not need or selecting the ones you need. There are many other sites that do this but this one seems rather simple and easy on the eyes. 
+

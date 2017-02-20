@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Week Five"
+date:   2017-02-19 12:22:43 -0600
+categories: CS373 blog
+---
+{: .center-image}
+![Author: Edwin Bejarano]({{ site.url }}/downloads/selfie.jpg)
+
+{: .center-author}
+<i> Author: Edwin Bejarano</i>
+
+<br /><br />
+<h4><b>What did you do this past week?</b></h4>
+This past week I was working on the Netflix project in hopes of getting below .95 for probe.txt. It was unsuccessful but nonetheless it was a rewarding experience to try and mess around with the different caches to try to get lower and lower. Other than that I was also working on competitive programming which is getting more interesting as the course progresses by introducing new concepts and problemsets that take a little bit of thinking.
+
+<h4><b>What's in your way?</b></h4>
+Nothing is really in the way of progress. I will need to keep learning more Python and also going over the lecture notes to understand how the different data structures and iterations through them can help. 
+
+<h4><b>What will you do next week?</b></h4>
+Next week will be focused on setting up a group for the next project to hopefully get an early start. I will also be looking more into REACT as I feel like we will be able to use that framework on our project efficiently. 
+
+<h4><b>What's my experience of the class?</b></h4>
+Pretty good. This last week we went through a lot of different ways to work through iteration and how iteration differs between different data types. I really enjoyed that because it helped get a different sense/view on how to go through lists or data that you may have, and which way may be best for what type you are working with. I really enjoy the topics we are going through because they are the building blocks of Python and will probably help understanding the harder topics much easier.
+
+
+<h4><b>What's my pick-of-the-week or tip-of-the-week?</b></h4>
+Tip of the week: The semester complacency is starting! I feel it coming and I am trying hard not to succumb to it. Midterms are coming up and we can not ease the gas pedal, keep it going and work hard!
+

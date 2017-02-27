@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Week Six"
+date:   2017-02-26 1:32:53 -0600
+categories: CS373 blog
+---
+{: .center-image}
+![Author: Edwin Bejarano]({{ site.url }}/downloads/selfie.jpg)
+
+{: .center-author}
+<i> Author: Edwin Bejarano</i>
+
+<br /><br />
+<h4><b>What did you do this past week?</b></h4>
+This past week was spent on learning the different classes and ways of iterations in SWE. Very interesting stuff and getting into building the classes with next and iter was pretty cool. Other than SWE, I worked on my project for Intro to Computer Security dealing with creating a covert channel on a "secure" system and transfering a file through it. Our bandwidth wasn't the greatest but nonetheless we were able to do it and learned a great deal.
+
+<h4><b>What's in your way?</b></h4>
+Currently there are no obstacles that I can see. The biggest hinderance is still not feeling super comfortable with Python but the subjects that we have been going through in SWE have been great in getting a better understanding of how the language works. 
+
+<h4><b>What will you do next week?</b></h4>
+This next week is do or die! ;) I will be having a test in SWE and will need to review materials for a Network Security test early next week. My focus will be reviewing the different concepts we have gone over for Python in the past weeks and actually practicing creating those classes or iterators from scratch. 
+
+<h4><b>What's my experience of the class?</b></h4>
+It has been great. The quizzes are a little tricky and sometimes deflating ones confidence but that just makes you want to work that much harder. The coverage of material has been great and steps taken to cover each different concept has been perfect. I don't feel like we are covering anything completely new and it is more like we are building off of what we have recently learned.
+
+
+<h4><b>What's my pick-of-the-week or tip-of-the-week?</b></h4>
+My pick of the week is this awesome [Python Podcast](https://talkpython.fm/). It has a lot of different topics that are covered from where Python has been to where it may head to, which can be very intriguing and engaging. 
+

@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Week Nine"
+date:   2017-03-26 1:41:43 -0600
+categories: CS373 blog
+---
+{: .center-image}
+![Author: Edwin Bejarano]({{ site.url }}/downloads/selfie.jpg)
+
+{: .center-author}
+<i> Author: Edwin Bejarano</i>
+
+<br /><br />
+<h4><b>What did you do this past week?</b></h4>
+This past week was spent on working on the IDB Project. That involved figuring out GCP and setting up the basic templates for the different models. It was pretty cool to get started on the project and start breaking up the models that we decided on. 
+
+<h4><b>What's in your way?</b></h4>
+Nothing is slowing me down or in my way. There is a lot to learn and understand as far as deployment with flask and using bootstrap but understanding those concepts will come as we improve the site.
+
+<h4><b>What will you do next week?</b></h4>
+Next week will be looking more into database and API calls, and how to integrate them into our website since the next portion of the project will deal with populating our database and displaying the results. Apart from that I will also be working on finishing another project that I have for Building America that deals with the evolution of the South Philly neighborhood.
+ 
+<h4><b>What's my experience of the class?</b></h4>
+I am looking forward to getting more exposure to the SQL side of things. I have been pretty intrigued with the current topic of understanding how the different joins work within python. 
+
+<h4><b>What's my pick-of-the-week or tip-of-the-week?</b></h4>
+Since I am not completely satisfied with the looks of our current website, I have been looking at sites that help with the transformation of your site to more of a modern feel. I found a website that helps with that and is pretty easy to navigate, you can either look at design or coding articles that can help get a better understanding of how web development works. [A List Apart](https://alistapart.com)
+

@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Week Ten"
+date:   2017-04-02 5:27:43 -0600
+categories: CS373 blog
+---
+{: .center-image}
+![Author: Edwin Bejarano]({{ site.url }}/downloads/selfie.jpg)
+
+{: .center-author}
+<i> Author: Edwin Bejarano</i>
+
+<br /><br />
+<h4><b>What did you do this past week?</b></h4>
+This past week was dedicated to learning a little more about React and on Network Security. 
+
+<h4><b>What's in your way?</b></h4>
+Nothing other than more reading on React and how to integrate it with what we have already done with Flask.
+
+<h4><b>What will you do next week?</b></h4>
+Next week will be focused on finsihing up the second project. That would mean ensuring the database if up and running, the different tables are full with information, and that React is working well with the templating and filtering of information.
+ 
+<h4><b>What's my experience of the class?</b></h4>
+Great so far, no complaints. I am liking the SQL introduction and how to do the SQL queries. Showing how the different joins work and how they can be implemented really shows how flexibile SQL can sometimes be, for good or bad.
+
+<h4><b>What was my experience of the Atlassian Talk?</b></h4> 
+I enjoyed the Atlassian talk, probably more than the other talks. In general they seemed more down to earth and "chill", as well as straightforward with their thoughts on the company and their projects. It was pretty cool to see how Kevin was able to come up with a nifty solution to the Hip chat status problem and how they were able to test it between the other solution to pick the best option.
+
+<h4><b>What's my pick-of-the-week or tip-of-the-week?</b></h4>
+Since we are starting to get into SQL syntax and commands, there is a handy website that will help you practice your SQL queries to get used to the different syntax and how/what information is being queried. [Head First Labs](http://www.headfirstlabs.com/sql_hands_on/)
+
